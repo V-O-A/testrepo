@@ -2,6 +2,8 @@
 
 ## testfile
 
+test
+
 *test*
 
 **test**
